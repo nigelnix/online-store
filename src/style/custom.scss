@@ -1,0 +1,30 @@
+
+$primary: #0081A7;
+$secondary: #00AFB9;
+$info: #FDFCDC;
+$warning: #FED9B7;
+$success: #037a81;
+$danger: #F07167;
+$light: white;
+
+
+
+main, aside{
+    min-height: 95vh;
+}
+
+
+.prod-image{
+    width: 200px !important;
+    height: 200px !important;
+    margin-top: 0.5rem;
+}
+
+
+
+
+
+
+
+
+@import '../../node_modules/bootstrap/dist/css/bootstrap.css';
